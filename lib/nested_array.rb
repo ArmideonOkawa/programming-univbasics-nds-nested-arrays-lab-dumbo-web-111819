@@ -24,18 +24,19 @@ end
 
 def array_literal_matrix
  my_array = [
-  "Hal Incandenza",
-  "Lyle",
-  "Gerhard Schtitt",
-  "Mario Incandenza",
-  "Michael Pemulis"
-],
-[
+  "Bruce Green",
   "Don Gately",
   "Joelle van Dyne",
-  "Pat M.",
   "Kate Gompert",
-  "Bruce Green"
+  "Pat M."
+  
+],
+[
+  "Gerhard Schtitt",
+  "Hal Incandenza",
+  "Lyle",
+  "Mario Incandenza",
+  "Michael Pemulis"
 ]
 
 end
